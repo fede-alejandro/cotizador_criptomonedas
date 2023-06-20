@@ -27,7 +27,7 @@ display:flex;
 justify-content: space-between;
 align-content: end;
 
-span{margin-left:7rem; font-weight: 700};
+span{margin-left:6rem; font-weight: 700};
 `
 
 const Imagen = styled.img`
